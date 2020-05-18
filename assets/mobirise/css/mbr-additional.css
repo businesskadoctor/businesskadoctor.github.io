@@ -1291,11 +1291,12 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rZksEf8y2p {
-  background: #ffffff;
+  background: #232323;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rZksEf8y2p .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rZksEf8y2p .video-block {
