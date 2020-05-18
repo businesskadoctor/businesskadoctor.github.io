@@ -1290,6 +1290,18 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rZksEf8y2p {
+  background: #ffffff;
+}
+.cid-rZksEf8y2p .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rZksEf8y2p .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rYAVB2ZAne .navbar {
   padding: .5rem 0;
   background: #333333;
